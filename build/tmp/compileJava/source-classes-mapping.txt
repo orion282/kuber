@@ -1,8 +1,6 @@
-com/orion282/calculator/Calculator.java
- com.orion282.calculator.Calculator
-com/orion282/calculator/CalculatorTest.java
- com.orion282.calculator.CalculatorTest
-com/orion282/calculator/CalculatorController.java
- com.orion282.calculator.CalculatorController
-com/orion282/calculator/CalculatorApplication.java
- com.orion282.calculator.CalculatorApplication
+com/orion282/calculatorhazelcast/CalculatorHazelcastController.java
+ com.orion282.calculatorhazelcast.CalculatorHazelcastController
+com/orion282/calculatorhazelcast/CalculatorHazelcast.java
+ com.orion282.calculatorhazelcast.CalculatorHazelcast
+com/orion282/calculatorhazelcast/CalculatorHazelcastApplication.java
+ com.orion282.calculatorhazelcast.CalculatorHazelcastApplication
